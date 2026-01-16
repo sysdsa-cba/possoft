@@ -1,1 +1,1 @@
-# possoft
+# Point of Sale Software
